@@ -18,7 +18,7 @@ export default function Home() {
       </article>
 
       <footer className="flex-shrink text-xs p-12">
-        Created with ❤️ and snark by <a className="underline" href="https://twitter.com/matmannion">@matmannion</a>.
+        Created with ❤️ and snark by <a className="underline" href="https://bsky.app/profile/matmannion.com">@matmannion.com</a>.
       </footer>
     </main>
   )
